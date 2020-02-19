@@ -1,2 +1,5 @@
 *.csv
+*.tsv
+*.json
+*.zip
 .ipynb_checkpoints/
